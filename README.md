@@ -20,7 +20,7 @@ merkle-crdt replica encryption/access control
 replicating merkle-crdts with peers
 
 [![infra](https://img.shields.io/github/issues-search/merkle-crdt-ig/forum?color=lightgrey&label=infra&query=label%3Ainfra&style=flat-square)](https://github.com/merkle-crdt-ig/forum/issues?q=label%3Ainfra+) -
-merkle-crdt databases at scale
+designs for running merkle-crdt databases at scale
  
 [![meta](https://img.shields.io/github/issues-search/merkle-crdt-ig/forum?color=lightgrey&label=meta&query=label%3Ameta&style=flat-square)](https://github.com/merkle-crdt-ig/forum/issues?q=label%3Ameta+) -
 not a forum post, an issue about the forum repo
