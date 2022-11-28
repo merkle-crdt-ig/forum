@@ -2,6 +2,10 @@
 
 Open forum for sharing ideas and discussion around merkle-crdts
 
+Checkout the [Discussions](https://github.com/merkle-crdt-ig/forum/discussions) tab to contribute.
+
+<!--
+
 ## Topics:
 
 [![papers](https://img.shields.io/github/issues-search/merkle-crdt-ig/forum?color=blue&label=papers&query=label%3Apapers&style=flat-square)](https://github.com/merkle-crdt-ig/forum/issues?q=label%3Apapers+) -
@@ -24,3 +28,5 @@ merkle-crdt databases at scale
  
 [![meta](https://img.shields.io/github/issues-search/merkle-crdt-ig/forum?color=blue&label=meta&query=label%3Ameta&style=flat-square)](https://github.com/merkle-crdt-ig/forum/issues?q=label%3Ameta+) -
 not a forum post, an issue about the forum repo
+
+-->
